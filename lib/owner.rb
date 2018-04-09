@@ -79,17 +79,21 @@ class Owner
       pet_array.clear
     end
     # @pets.each do |type, pets|
+  end
 
-    end
-
-    # def sell_pets !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+    # def sell_pets
     #   @pets.each do |type, pets|
     #     pets.each do |pet|
     #       pet.mood = "nervous"
     #     end
     #   end
-    #   # @pets.each do |type, pets|
+    #     puts "BEFORE"
+    #     puts pets
+    #     puts "---------------"
     #     pets.clear
+    #     puts "---------------"
+    #     puts "AFTER"
+    #     puts pets
     #   end
 
 
