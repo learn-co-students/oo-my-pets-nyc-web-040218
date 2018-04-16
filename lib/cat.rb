@@ -1,3 +1,2 @@
-class Cat
-  # code goes here
+class Cat < Pet
 end
